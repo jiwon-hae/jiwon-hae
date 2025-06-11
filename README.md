@@ -25,6 +25,13 @@ Visual navigation system leveraging Gaussian splatting for high-fidelity scene r
 - **Mobile:** Android, Swift, MLKit  
 - **Tools:** Git, Docker, ROS, NavMesh
 
+
+## 📊 GitHub Stats
+
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonhae&show_icons=true&theme=default&hide=stars&count_private=true)
+
+![Jiwon's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jiwonhae)
+
 ## 📬 Contact
 
 - **Email:** haejw@usc.edu  
