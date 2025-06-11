@@ -17,7 +17,7 @@ With over 4 years of experience as a software engineer, I specialize in building
 - Developed a multimodal empathetic response generater by integrating Meta’s [ImageBind](https://github.com/facebookresearch/ImageBind) for cross-modal representation learning.
 - Responsible for active speaker detection and face cropping from video, as well as fine-tuning the LLaMA-based Multimodal Large Language Model (MLLM) for empathetic response generation.
 
-#### New Benchmark for Real-world Visual Navigation in a Simulator, Research
+#### New Benchmark for Real-world Visual Navigation in a Simulator
 - Developing a novel benchmark simulator for real-world visual navigation using [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) for photorealistic scene rendering.
 - Responsible for dataset processing using ROS and Open3D, and for implementing Navisim, a training arena built with [Gym](https://github.com/openai/gym) for agent-based navigation.
 
