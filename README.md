@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Jiwon Hae
 
-<!--
-**jiwon-hae/jiwon-hae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master's student in AI at USC with 4 years of industry experience as a mobile and AI engineer.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 [Negotiation Agent with LLM](https://github.com/jiwonhae/negotiation-agent)  
+  Built an agent that dynamically adapts counter-offers using OpenAI + LP
+
+- 📱 [On-Device AI for Face Analysis](https://github.com/jiwonhae/on-device-face)  
+  Improved facial recognition accuracy using native camera control + MLKit
+
+## 📬 Contact
+- GitHub: [@jiwonhae](https://github.com/jiwonhae)
+- Email: haejw@usc.edu
+- Resume: [View PDF](link-to-your-resume)
