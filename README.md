@@ -31,11 +31,6 @@ With over 4 years of experience as a software engineer, I specialize in building
 
 <br>
 
-## 📈 GitHub Contribution Calendar
-![GitHub Contributions](https://ghchart.rshah.org/jiwon-hae?theme=blue)
-
-<br>
-
 ## 🎓 Education
 **M.S. in Computer Science (Artificial Intelligence specialization)**, University of Southern California — Expected Dec 2025 <br>
 **B.S. in Computer Science & B.B.A in Business Administration**, Sungkyunkwan University — 2020
