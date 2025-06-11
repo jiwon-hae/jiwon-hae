@@ -1,36 +1,42 @@
 # 👋 Hi, I'm Jiwon Hae
+## 🚀 About Me
+Welcome to my Github!
 
-AI/Mobile Engineer and Master’s student in Artificial Intelligence at USC.
+Hi, I’m Jiwon Hae — AI Engineer and M.S. in Computer Science (AI specialization) at the University of Southern California, currently interning at ReferU.AI.
 
-## 🚀 Projects
+With over 4 years of experience as a software engineer, I specialize in building intelligent systems that combine research and practical application. My expertise includes LLM fine-tuning, prompt engineering, multimodal AI integration, and agentic AI architectures. I’m passionate about creating adaptive and strategic AI solutions that drive real-world impact through innovation and scalability.
 
-### [Negotiation Agent with LLM](https://github.com/jiwonhae/negotiation-agent)
-An intelligent agent using OpenAI LLM + linear programming to perform real-time negotiation and counter-offers.
+## 🧠 Research
+**ASTRA: A Negotiation Agent with Adaptive and Strategic Reasoning through Action in Dynamic Offer Optimization - [arxiv](https://arxiv.org/abs/2503.07129)**
+- Fine-tuned Flan-T5 using Proximal Policy Optimization (PPO) on HPC infrastructure to generate strategic dialogue in multi-issue negotiation scenarios.
+- Designed a consistency checker using Chain-of-Thought (CoT) prompting and the OpenAI API to ensure alignment between LLM-generated offers and inferred partner preferences.
+- Evaluated agent performance across 100+ negotiation runs using BLEU, F1, and Pareto optimality; achieved a 66% reduction in walk-away rates.
 
-### [On-Device Face Analysis](https://github.com/jiwonhae/on-device-face)
-Mobile app combining camera control and MLKit to enhance face recognition accuracy on-device.
+## 🌟 Projects
+**Multimodal Empathetic Response Generation - [GitHub](https://github.com/jiwon-hae/EmpatheticMLLM)**
+- Developed a multimodal empathetic response generater by integrating Meta’s [ImageBind](https://github.com/facebookresearch/ImageBind) for cross-modal representation learning.
+- Responsible for active speaker detection and face cropping from video, as well as fine-tuning the LLaMA-based Multimodal Large Language Model (MLLM) for empathetic response generation.
 
-### [3D Gaussian Splatting Pipeline](https://github.com/jiwonhae/3d-gaussian-splatting)
-Visual navigation system leveraging Gaussian splatting for high-fidelity scene rendering in robotics.
-
-## 🎓 Education
-
-**M.S. in Artificial Intelligence**, USC — Expected 2026  
-**B.S. Computer Science**, [Your Undergrad University] — 2022
+**New Benchmark for Real-world Visual Navigation in a Simulator, Research**
+- Developing a novel benchmark simulator for real-world visual navigation using [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) for photorealistic scene rendering.
+- Responsible for dataset processing using ROS and Open3D, and for implementing Navisim, a training arena built with [Gym](https://github.com/openai/gym) for agent-based navigation.
+  
 
 ## 💡 Skills
-
-- **Languages:** Python, Java, Kotlin, C++  
-- **AI/ML:** PyTorch, TensorFlow, OpenAI API  
-- **Mobile:** Android, Swift, MLKit  
-- **Tools:** Git, Docker, ROS, NavMesh
+- **Programming Languages**: Python, Kotlin, Java, Flutter, C++<br>
+- **AI Frameworks & Libraries**: PyTorch, OpenAI API, Hugging Face, LoRA, vLLM, Scikit-learn, LangChain, Jupyter<br>
+- **Data & Scripting Tools**: Pandas, NumPy, OpenCV, SQL, Bash<br>
+- **Tools & Platforms**: CUDA, SLURM, Docker, Linux<br>
 
 ## 🗓️ GitHub Contribution Calendar
 
-![Jiwon's GitHub Contributions](https://ghchart.rshah.org/jiwonhae)
+![GitHub Contributions](https://ghchart.rshah.org/jiwon-hae?theme=blue)
+
+## 🎓 Education
+**M.S. in Computer Science (Artificial Intelligence specialization)**, University of Southern California — Expected Dec 2025 <br>
+**B.S. in Computer Science & B.B.A in Business Administration**, Sungkyunkwan University — 2020
 
 ## 📬 Contact
-
-- **Email:** haejw@usc.edu  
-- **GitHub:** [github.com/jiwonhae](https://github.com/jiwonhae)  
-- **LinkedIn:** [linkedin.com/in/jiwonhae](https://linkedin.com/in/jiwonhae)
+- **Email:** jiwonhae96@gmail.edu  
+- **GitHub:** [github.com/jiwonhae](https://github.com/jiwon-hae)  
+- **LinkedIn:** [linkedin.com/in/jiwonhae](https://www.linkedin.com/in/jiwonhae94/)
