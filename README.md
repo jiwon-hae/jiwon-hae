@@ -38,6 +38,6 @@ With over 4 years of experience as a software engineer, I specialize in building
 <br><br>
 
 ## 📬 Contact
-- ✉️**Email:** jiwonhae96@gmail.edu  
+- ✉️**Email:** jiwonhae96@gmail.com
 - 🐙**GitHub:** [github.com/jiwonhae](https://github.com/jiwon-hae)  
 - 💼**LinkedIn:** [linkedin.com/in/jiwonhae](https://www.linkedin.com/in/jiwonhae94/)
