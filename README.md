@@ -21,6 +21,12 @@ With over 4 years of experience as a software engineer, I specialize in building
 - Developing a novel benchmark simulator for real-world visual navigation using [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) for photorealistic scene rendering.
 - Responsible for dataset processing using ROS and Open3D, and for implementing Navisim, a training arena built with [Gym](https://github.com/openai/gym) for agent-based navigation.
 
+#### GOSSIPS: An agentic RAG system that maps influence and unveils celebrity connections through graphs and gossip. - [GitHub](https://github.com/jiwon-hae/gossips)
+- Agentic RAG system powered by a knowledge graph that tracks and connects rumors, relationships, and influence in the celebrity ecosystem.
+- Transforms unstructured stories into structured insights, enabling agents to reason over the latest gossip and uncover hidden connections.
+(Work in progress)
+
+
 <br>
 
 ## 💡 Skills
