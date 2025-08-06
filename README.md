@@ -5,17 +5,18 @@ With over 4 years of experience as a software engineer, I specialize in building
 <br>
 
 ## 🧠 Research
-#### ASTRA: A Negotiation Agent with Adaptive and Strategic Reasoning through Action in Dynamic Offer Optimization - [arxiv](https://arxiv.org/abs/2503.07129)
-- Fine-tuned Flan-T5 using Proximal Policy Optimization (PPO) on HPC infrastructure to generate strategic dialogue in multi-issue negotiation scenarios.
-- Designed a consistency checker using Chain-of-Thought (CoT) prompting and the OpenAI API to ensure alignment between LLM-generated offers and inferred partner preferences.
-- Evaluated agent performance across 100+ negotiation runs using BLEU, F1, and Pareto optimality; achieved a 66% reduction in walk-away rates.
+**Kwon, D., & Hae, J.** “ASTRA: A Negotiation Agent with Adaptive and Strategic Reasoning through Action in Dynamic Offer Optimization”. Manuscript under EMNLP 2025 review —designed to enhance negotiation outcomes by dynamically adapting to human behaviors - [arxiv](https://arxiv.org/abs/2503.07129)
+- Co-developed ASTRA, combining LLM-driven opponent modeling with an LP solver for precise offer generation
+- Implemented an opponent-fairness assessment module that produces LP parameters to balance strategic objectives 
+- Validated ASTRA on CaSiNo (negotiation benchmark), outperforming RL baselines and reducing walk-away by 66%
 
 <br>
 
 ## 🌟 Projects
 #### Multimodal Empathetic Response Generation - [GitHub](https://github.com/jiwon-hae/EmpatheticMLLM)
 - Developed a multimodal empathetic response generater by integrating Meta’s [ImageBind](https://github.com/facebookresearch/ImageBind) for cross-modal representation learning.
-- Responsible for active speaker detection and face cropping from video, as well as fine-tuning the LLaMA-based Multimodal Large Language Model (MLLM) for empathetic response generation.
+- Fine-tuned LLaMA-3-8B, achieving state-of-the-art multimodal empathy with highest scores in emotion, sentiment, empathy, and lowest perplexity across text, audio, video
+- Engineered multimodal pipeline using ImageBind embeddings, enabling unified reasoning from text, audio, and video
 
 #### New Benchmark for Real-world Visual Navigation in a Simulator
 - Developing a novel benchmark simulator for real-world visual navigation using [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) for photorealistic scene rendering.
