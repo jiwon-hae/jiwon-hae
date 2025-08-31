@@ -48,3 +48,4 @@ With over 4 years of experience as a software engineer, I specialize in building
 - ✉️ **Email:** jiwonhae96@gmail.com
 - 🐙 **GitHub:** [github.com/jiwonhae](https://github.com/jiwon-hae)  
 - 💼 **LinkedIn:** [linkedin.com/in/jiwonhae](https://www.linkedin.com/in/jiwonhae94/)
+](https://www.perplexity.ai/search/role-consider-yourself-an-ai-m-1T.7B7U8SAy16QvZrE1Cvw#0)
