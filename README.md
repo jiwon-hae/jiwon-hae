@@ -18,6 +18,12 @@ With over 4 years of experience as a software engineer, I specialize in building
 - Fine-tuned LLaMA-3-8B, achieving state-of-the-art multimodal empathy with highest scores in emotion, sentiment, empathy, and lowest perplexity across text, audio, video
 - Engineered multimodal pipeline using ImageBind embeddings, enabling unified reasoning from text, audio, and video
 
+#### Storytale: Adventures with You and Your Pet — Interactive storybook app built for the Nano Banana Hackathon - [Github](https://github.com/jiwon-hae/interactive-story-hackathon)
+- Developed with Google AI Studio for rapid prototyping (“Vibe coding”), integrating Google’s Nano Banana model for real-time, interactive storytelling and anime-style image generation
+- Engineered advanced prompt-to-image pipelines enabling pose control, facial regeneration, style transfer, weather changes, and dynamic background adaptation
+- Transforms users and their pets into AI-powered storybook heroes, supporting collectible figurine rendering and fully customizable scenes
+
+
 #### New Benchmark for Real-world Visual Navigation in a Simulator
 - Developing a novel benchmark simulator for real-world visual navigation using [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) for photorealistic scene rendering.
 - Responsible for dataset processing using ROS and Open3D, and for implementing Navisim, a training arena built with [Gym](https://github.com/openai/gym) for agent-based navigation.
