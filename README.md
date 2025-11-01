@@ -13,6 +13,12 @@ With over 4 years of experience as a software engineer, I specialize in building
 <br>
 
 ## 🌟 Projects
+#### ComposeEdge — AI-Powered Chrome Extension for Smarter Writing Assistance — [GitHub](https://github.com/jiwon-hae/ComposeEdge)
+- Developed for Chrome Dev Fest, leveraging the Gemini Prompt API and a ReAct-based planner to orchestrate agentic writing workflows directly in the browser
+- Integrated modular services — writer, rewriter, translator, proofreader, and summarizer — to refine tone, clarity, and intent across user-generated content such as emails, comments, and LinkedIn posts
+- Designed a latency-optimized edge architecture with contextual memory and adaptive response control to provide instant rewriting and tone adjustment without backend dependencies
+- Enhances digital communication by turning user intent into polished, context-aware compositions — from professional correspondence to multilingual creative writing
+
 #### Multimodal Empathetic Response Generation - [GitHub](https://github.com/jiwon-hae/EmpatheticMLLM)
 - Developed a multimodal empathetic response generater by integrating Meta’s [ImageBind](https://github.com/facebookresearch/ImageBind) for cross-modal representation learning.
 - Fine-tuned LLaMA-3-8B, achieving state-of-the-art multimodal empathy with highest scores in emotion, sentiment, empathy, and lowest perplexity across text, audio, video
